@@ -1,0 +1,7 @@
+get http://localhost:5000/api/v1/faqs
+
+###
+post http://localhost:5000/api/v1/faqs
+
+###
+put http://localhost:5000/api/v1/faqs/5
